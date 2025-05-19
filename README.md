@@ -9,7 +9,10 @@ Made this project Along with my Batchmates/classmates for our 4th semester Unive
 Installation Steps
 
 
-Download the .zip file in this directory
+Download the .zip file in this directory by clicking view raw
+
+
+Go to Oracle apex Website 
 
 
 Navigate to App Builder -> Import on Oracle Apex
